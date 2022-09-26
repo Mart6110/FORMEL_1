@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "RED BULL RACING RBPT",
+        "points": 545,
+        "driver_1": "Max Verstappen",
+        "driver_2": "Sergio Perez",
+        "driver_1_points": 335,
+        "driver_2_points": 210
+    },
+    {
+        "id": 2,
+        "name": "FERRARI",
+        "points": 406,
+        "driver_1": "Charles Leclerc",
+        "driver_2": "Carlos Sainz",
+        "driver_1_points": 219,
+        "driver_2_points": 187
+    },
+    {
+        "id": 3,
+        "name": "MERCEDES",
+        "points": 371,
+        "driver_1": "George Russell",
+        "driver_2": "Lewis Hamilton",
+        "driver_1_points": 203,
+        "driver_2_points": 168
+    },
+    {
+        "id": 4,
+        "name": "ALPINE RENAULT",
+        "points": 125,
+        "driver_1": "Charles Leclerc",
+        "driver_2": "Carlos Sainz",
+        "driver_1_points": 66,
+        "driver_2_points": 59
+    },
+    {
+        "id": 5,
+        "name": "MCLAREN MERCEDES",
+        "points": 107,
+        "driver_1": "Lando Norris",
+        "driver_2": "Daniel Ricciardo",
+        "driver_1_points": 88,
+        "driver_2_points": 19
+    },
+    {
+        "id": 6,
+        "name": "ALFA ROMEO FERRARI",
+        "points": 52,
+        "driver_1": "Valtteri Bottas",
+        "driver_2": "Zhou Guanyu",
+        "driver_1_points": 66,
+        "driver_2_points": 59
+    },
+    {
+        "id": 7,
+        "name": "HAAS FERRARI",
+        "points": 34,
+        "driver_1": "Kevin Magnussen",
+        "driver_2": "Mick Schumacher",
+        "driver_1_points": 22,
+        "driver_2_points": 12
+    },
+    {
+        "id": 8,
+        "name": "ALPHATAURI RBPT",
+        "points": 33,
+        "driver_1": "Pierre Gasly",
+        "driver_2": "Yuki Tsunoda",
+        "driver_1_points": 22,
+        "driver_2_points": 11
+    },
+    {
+        "id": 9,
+        "name": "ASTON MARTIN ARAMCO MERCEDES",
+        "points": 25,
+        "driver_1": "Sebastian Vettel",
+        "driver_2": "Lance Stroll",
+        "driver_1_points": 20,
+        "driver_2_points": 5
+    },
+    {
+        "id": 10,
+        "name": "WILLIAMS MERCEDES",
+        "points": 6,
+        "driver_1": "Alexander Albon",
+        "driver_2": "Nyck De Vries",
+        "driver_1_points": 4,
+        "driver_2_points": 2
+    }
+]

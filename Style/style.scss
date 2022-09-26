@@ -1,0 +1,82 @@
+// Setting the scalling
+* {
+    box-sizing: border-box;
+}
+
+// Setting the font-family and the font-weight
+h1,
+h2,
+h3,
+h4,
+h5,
+a,
+p {
+    font-family: 'Rubik', sans-serif !important;
+    font-weight: 300;
+}
+
+// Giving a minimum height to push footer to the bottem
+#page-container {
+    position: relative;
+    min-height: 70vh;
+}
+
+// Stylling of the progress bars
+.progress.active .progress-bar {
+    -webkit-transition: none !important;
+    transition: none !important;
+}
+
+// Stylling of the progress bars
+.progress-bar {
+    background-color: #e10600 !important;
+}
+
+// Stylling of the Footer
+footer {
+    position: relative;
+    height: 20vh;
+    width: 100%;
+    bottom: 0;
+}
+
+// Stylling the navigation header
+.navbar {
+    padding: 0;
+
+    .container-fluid {
+        .navbar-brand {
+            font-size: 2rem;
+
+            &:hover {
+                color: #e10600;
+            }
+        }
+
+        .navbar-collapse {
+            justify-content: end;
+
+            .navbar-nav {
+                margin: 0 !important;
+            }
+        }
+    }
+
+    .nav-item {
+        margin-inline: 1rem;
+
+        .nav-link {
+            padding: 1.8rem 2rem;
+
+            &:hover {
+                background-color: #e10600;
+                color: white;
+            }
+        }
+    }
+}
+
+.nav-link,
+.navbar-brand {
+    color: white;
+}

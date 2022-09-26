@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "Place": "1",
+        "Points": 10
+    },
+    {
+        "id": 2,
+        "Place": "2",
+        "Points": 8
+    },
+    {
+        "id": 3,
+        "Place": "3",
+        "Points": 6
+    },
+    {
+        "id": 4,
+        "Place": "4",
+        "Points": 5
+    },
+    {
+        "id": 5,
+        "Place": "5",
+        "Points": 4
+    },
+    {
+        "id": 6,
+        "Place": "6",
+        "Points": 3
+    },
+    {
+        "id": 7,
+        "Place": "7",
+        "Points": 2
+    },
+    {
+        "id": 8,
+        "Place": "8",
+        "Points": 1
+    },
+    {
+        "id": 9,
+        "Place": "9 or lower",
+        "Points": 0
+    }
+]

@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+a,
+p {
+  font-family: "Rubik", sans-serif !important;
+  font-weight: 300;
+}
+
+#page-container {
+  position: relative;
+  min-height: 70vh;
+}
+
+.progress.active .progress-bar {
+  transition: none !important;
+}
+
+.progress-bar {
+  background-color: #e10600 !important;
+}
+
+footer {
+  position: relative;
+  height: 20vh;
+  width: 100%;
+  bottom: 0;
+}
+
+.navbar {
+  padding: 0;
+}
+.navbar .container-fluid .navbar-brand {
+  font-size: 2rem;
+}
+.navbar .container-fluid .navbar-brand:hover {
+  color: #e10600;
+}
+.navbar .container-fluid .navbar-collapse {
+  justify-content: end;
+}
+.navbar .container-fluid .navbar-collapse .navbar-nav {
+  margin: 0 !important;
+}
+.navbar .nav-item {
+  margin-inline: 1rem;
+}
+.navbar .nav-item .nav-link {
+  padding: 1.8rem 2rem;
+}
+.navbar .nav-item .nav-link:hover {
+  background-color: #e10600;
+  color: white;
+}
+
+.nav-link,
+.navbar-brand {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
